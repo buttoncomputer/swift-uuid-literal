@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:UUIDLiteral}",
+            "name": "Debug UUIDLiteralClient",
+            "target": "UUIDLiteralClient",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug UUIDLiteralClient"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:UUIDLiteral}",
+            "name": "Release UUIDLiteralClient",
+            "target": "UUIDLiteralClient",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release UUIDLiteralClient"
+        }
+    ]
+}
