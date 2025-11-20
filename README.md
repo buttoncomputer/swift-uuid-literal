@@ -1,6 +1,6 @@
 # Swift UUID Literal
 
-`swift-uuid-literal` is a Swift package that provides a compile-time-validated UUID literal macro.
+Swift UUID Literal is a Swift package that provides a compile-time-validated UUID literal macro.
 
 ## Example
 
